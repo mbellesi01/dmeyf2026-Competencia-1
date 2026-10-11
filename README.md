@@ -2,7 +2,7 @@
 
 **Alumno:** Matías Bellesi  
 **Archivo Final Entregado:** `BLEND_CONSENSO_11000_VS_11000_K11000.csv`  
-**Public Leaderboard:** 103.3175 M (Submission ID: `1591-1791719612898137`)
+
 
 ---
 
